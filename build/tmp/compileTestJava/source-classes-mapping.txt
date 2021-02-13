@@ -1,0 +1,8 @@
+com/syoun/book/springboot/web/dto/HelloResponseDtoTest.java
+ com.syoun.book.springboot.web.dto.HelloResponseDtoTest
+com/syoun/book/springboot/web/HelloControllerTest.java
+ com.syoun.book.springboot.web.HelloControllerTest
+com/syoun/book/springboot/web/PostsApiControllerTest.java
+ com.syoun.book.springboot.web.PostsApiControllerTest
+com/syoun/book/springboot/domain/posts/PostsRepositoryTest.java
+ com.syoun.book.springboot.domain.posts.PostsRepositoryTest
